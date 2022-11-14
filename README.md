@@ -35,11 +35,14 @@ Table of Contents
 | Medial Elastics: Efficient and Collision-ready Deformation via Medial Axis Transform | SIGGRAPH | - |
 
 ## 2018
-
+| Paper | Publisher | Project/Code |
+| :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
 | [Rule-Free Sewing Pattern Adjustment with Precision and Efficiency](https://wanghmin.github.io/Wang-2018-RFS/Wang-2018-RFS.pdf) | SIGGRAPH | - |
 | [Parallel Multigrid for Nonlinear Cloth Simulation](https://wanghmin.github.io/Wang-2018-PMN/Wang-2018-PMN.pdf) | Pacific Graphics (CGF) |  -|
 | [CAMA: Contact-Aware Matrix Assembly with Unified Collision Handling for GPU-Based Cloth Simulation](https://wanghmin.github.io/Tang-2016-CAM/Tang-2016-CAM.pdf) | Eurographics(CGF) | - | 
 
 ## 2015
+| Paper | Publisher | Project/Code |
+| :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
 | [A Chebyshev Semi-Iterative Approach for Accelerating Projective and Position-Based Dynamics](https://wanghmin.github.io/Wang-2015-ACS/Wang-2015-ACS.pdf) | SIGGRAPH-Asia | [Code](https://wanghmin.github.io/Wang-2015-ACS/Chebyshev_sim.zip) |
 
