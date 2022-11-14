@@ -22,11 +22,19 @@ Table of Contents
 | [A GPU-Based Multilevel Additive Schwarz Preconditioner for Cloth and Deformable Body Simulation](https://wanghmin.github.io/Wu-2022-AGM/Wu-2022-AGM.pdf) | SIGGRAPH | [Code](https://wanghmin.github.io/Wu-2022-AGM/Wu-2022-AGM-src.zip) |
 | [Estimation of Yarn-Level Simulation Models for Production Fabrics](http://mslab.es/projects/YarnLevelFabrics/contents/sperl2022eylsmpf.pdf) | SIGGRAPH-Asia | [Project](http://mslab.es/projects/YarnLevelFabrics/) | - |
 | [Predicting Loose-fitting Garment Deformations Using Bone-driven Motion Networks](https://arxiv.org/pdf/2205.01355.pdf) | SIGGRAPH (Conference)| [Project](http://www.cad.zju.edu.cn/home/jin/SigCloth2022/SigCloth2022.html) / [Code](https://github.com/non-void/VirtualBones) |
+| [ϕ-SfT: Shape-from-Template with a Physics-Based Deformation Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Kairanda_f-SfT_Shape-From-Template_With_a_Physics-Based_Deformation_Model_CVPR_2022_paper.pdf) | CVPR | [Project](https://4dqv.mpi-inf.mpg.de/phi-SfT/) / [Code](https://github.com/navamikairanda/phi_sft) | 
+| [A Repulsive Force Unit for Garment Collision Handling in Neural Networks](https://qytan.com/files/refu.pdf) | ECCV | [Project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) / [Code](https://github.com/aldehydecho/ReFU)
+| [Differentiable Physics Simulation of Dynamics-Augmented Neural Objects](https://arxiv.org/pdf/2210.09420.pdf) | - | - |
+| [PERGAMO: Personalized 3D Garments from Monocular Video](http://mslab.es/projects/PERGAMO/contents/casado-sca2022.pdf) | SCA | [Project](http://mslab.es/projects/PERGAMO/) / [Code](https://github.com/AndresCasado/pergamo) | 
+| [Capturing and Animation of Body and Clothing from Monocular Video](https://arxiv.org/pdf/2210.01868v1.pdf) | - | [Code](https://github.com/YadiraF/SCARF)
+
+
 
 ## 2021
 | Paper | Publisher | Project/Code |
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
 | [GPU-Based Simulation of Cloth Wrinkles at Submillimeter Levels](https://wanghmin.github.io/Wang-2021-GBS/Wang-2021-GBS.pdf) | SIGGRAPH | [Code](https://wanghmin.github.io/Wang-2021-GBS/Wang-2021-GBS-src.zip) | 
+| [SNUG: Self-Supervised Neural Dynamic Garments](http://mslab.es/projects/SNUG/contents/santesteban_CVPR2022.pdf) | CVPR | [Project](http://mslab.es/projects/SNUG/) / [Code](https://github.com/isantesteban/snug) | 
 
 ## 2020
 | Paper | Publisher | Project/Code |
