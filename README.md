@@ -33,7 +33,8 @@ Table of Contents
 | Paper | Publisher | Project/Code |
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
 | [GPU-Based Simulation of Cloth Wrinkles at Submillimeter Levels](https://wanghmin.github.io/Wang-2021-GBS/Wang-2021-GBS.pdf) | SIGGRAPH | [Code](https://wanghmin.github.io/Wang-2021-GBS/Wang-2021-GBS-src.zip) | 
-| [PBNS: physically based neural simulation for unsupervised garment pose space deformation](https://dl.acm.org/doi/10.1145/3478513.3480479) | SIGGRAPH | [code](https://github.com/hbertiche/PBNS) | 
+| [PBNS: physically based neural simulation for unsupervised garment pose space deformation](https://dl.acm.org/doi/10.1145/3478513.3480479) | SIGGRAPH-Asia | [code](https://github.com/hbertiche/PBNS) | 
+| [Modeling Clothing as a Separate Layer for an Animatable Human Avatar](https://research.facebook.com/file/326387975917527/Modeling-Clothing-as-a-Separate-Layer-for-an-Animatable-Human-Avatar.pdf) | SIGGRAPH-Asia | [Project](https://research.facebook.com/publications/explicit-clothing-modeling-for-an-animatable-full-body-avatar/) |
 
 ## 2020
 | Paper | Publisher | Project/Code |
@@ -41,6 +42,7 @@ Table of Contents
 | [A Safe and Fast Repulsion Method for GPU-based Cloth Self Collisions](https://wanghmin.github.io/Wu-2020-ASF/Wu-2020-ASF.pdf) | SIGGRAPH | - | 
 | Medial Elastics: Efficient and Collision-ready Deformation via Medial Axis Transform | SIGGRAPH | - |
 | [Homogenized Yarn-Level Cloth](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper_lowres.pdf) | SIGGRAPH | [Project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/) |
+| [P-Cloth: Interactive Complex Cloth Simulation on Multi-GPU Systems using Dynamic Matrix Assembly and Pipelined Implicit Integrators](https://min-tang.github.io/home/PCloth/files/pcloth.pdf) | SIGGRAPH-Asia | [Project](https://gamma.umd.edu/publication/797/)
 
 ## 2019
 | Paper | Publisher | Project/Code |
@@ -59,6 +61,9 @@ Table of Contents
 | [Eulerian-on-Lagrangian Cloth Simulation](https://people.engr.tamu.edu/sueda/projects/eol-cloth/WPLS2018.pdf) | SIGGRAPH | [Project](https://people.engr.tamu.edu/sueda/projects/eol-cloth/index.html)/[Code](https://github.com/sueda/eol-cloth) | 
 | [A Multi-Scale Model for Simulating Liquid-Fabric Interactions](http://www.cs.columbia.edu/cg/wetcloth/main.pdf) | SIGGRAPH | [Project](http://www.cs.columbia.edu/cg/wetcloth/) / [Code](https://github.com/nepluno/libWetCloth) | 
 | [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/files/clothNodalContactSolver.pdf) | SIGGRAPH |[Project](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html) / [Code](https://github.com/lijieumn/argus-distribution) |
+| [I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation](https://min-tang.github.io/home/ICloth/files/icloth.pdf) | SIGGRAPH-Asia | [Project](https://min-tang.github.io/home/ICloth/) | 
+| [Interactive Design of Periodic Yarn-Level Cloth Patterns](https://graphics.stanford.edu/projects/yarnsim/assets/interactive_design_of_periodic_yarn_level_cloth_patterns.pdf) | SIGGRAPH-Asia | [Project](https://graphics.stanford.edu/projects/yarnsim/) | 
+
 
 ## 2017
 
@@ -70,4 +75,5 @@ Table of Contents
 | Paper | Publisher | Project/Code |
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
 | [A Chebyshev Semi-Iterative Approach for Accelerating Projective and Position-Based Dynamics](https://wanghmin.github.io/Wang-2015-ACS/Wang-2015-ACS.pdf) | SIGGRAPH-Asia | [Code](https://wanghmin.github.io/Wang-2015-ACS/Chebyshev_sim.zip) |
+| [Smoothed aggregation multigrid for cloth simulation](https://dl.acm.org/doi/10.1145/2816795.2818081) | SIGGRAPH-Asia | - |
 
