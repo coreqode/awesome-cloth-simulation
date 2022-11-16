@@ -35,6 +35,8 @@ Table of Contents
 | [GPU-Based Simulation of Cloth Wrinkles at Submillimeter Levels](https://wanghmin.github.io/Wang-2021-GBS/Wang-2021-GBS.pdf) | SIGGRAPH | [Code](https://wanghmin.github.io/Wang-2021-GBS/Wang-2021-GBS-src.zip) | 
 | [PBNS: physically based neural simulation for unsupervised garment pose space deformation](https://dl.acm.org/doi/10.1145/3478513.3480479) | SIGGRAPH-Asia | [code](https://github.com/hbertiche/PBNS) | 
 | [Modeling Clothing as a Separate Layer for an Animatable Human Avatar](https://research.facebook.com/file/326387975917527/Modeling-Clothing-as-a-Separate-Layer-for-an-Animatable-Human-Avatar.pdf) | SIGGRAPH-Asia | [Project](https://research.facebook.com/publications/explicit-clothing-modeling-for-an-animatable-full-body-avatar/) |
+| [Deep Detail Enhancement for Any Garment](http://geometry.cs.ucl.ac.uk/projects/2021/DeepDetailEnhance/paper_docs/DeepDetailEnhance.pdf) | Eurographics | [Project](http://geometry.cs.ucl.ac.uk/projects/2021/DeepDetailEnhance/) | 
+
 
 ## 2020
 | Paper | Publisher | Project/Code |
@@ -43,11 +45,22 @@ Table of Contents
 | Medial Elastics: Efficient and Collision-ready Deformation via Medial Axis Transform | SIGGRAPH | - |
 | [Homogenized Yarn-Level Cloth](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper_lowres.pdf) | SIGGRAPH | [Project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/) |
 | [P-Cloth: Interactive Complex Cloth Simulation on Multi-GPU Systems using Dynamic Matrix Assembly and Pipelined Implicit Integrators](https://min-tang.github.io/home/PCloth/files/pcloth.pdf) | SIGGRAPH-Asia | [Project](https://gamma.umd.edu/publication/797/)
+| [Mixing Yarns and Triangles in Cloth Simulation](https://gmrv.es/Publications/2020/CCRMO20/Casafranca_EG2020_final.pdf) | Eurographics | [Project](https://gmrv.es/Publications/2020/CCRMO20/) | 
+| [Fully Convolutional Graph Neural Networks for Parametric Virtual Try-On](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn/contents/vidaurre_SCA2020.pdf) | SCA | [Project](http://mslab.es/projects/FullyConvolutionalGraphVirtualTryOn/) | 
+| [Cloth and skin deformation with a triangle mesh based convolutional neural network](https://dl.acm.org/doi/pdf/10.1111/cgf.14107) | SCA | - | 
+| [A Pixel-Based Framework for Data-Driven Clothing](https://arxiv.org/pdf/1812.01677.pdf) | SCA | [Project](https://physbam.stanford.edu/~njin19/pixel_based_cloth/) | 
+| [A Bending Model for Nodal Discretizations of Yarn-Level Cloth](https://www.gmrv.es/Publications/2020/PRCO20/Pizana_SCA2020_final.pdf) | SCA | [Project](https://www.gmrv.es/Publications/2020/PRCO20/) | 
+| [A Finite Element Formulation of Baraff-Witkin Clot](http://www.tkim.graphics/FEMBW/tkim_sca2020.pdf) | SCA | [Project](http://www.tkim.graphics/FEMBW/) | 
+
 
 ## 2019
 | Paper | Publisher | Project/Code |
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
 | [Implicit Untangling: A Robust Solution for Modeling Layered Clothing](https://hal.archives-ouvertes.fr/hal-02129156) | SIGGRAPH | - |
+| [Learning-Based Animation of Clothing for Virtual Try-On](https://dancasas.github.io/docs/santesteban_Eurographics2019.pdf) | Eurographics | [Project](https://dancasas.github.io/projects/LearningBasedVirtualTryOn/) / [Code](https://github.com/isantesteban/vto-learning-based-animation) | 
+| [Small Steps in Cloth Simulation](http://mmacklin.com/smallsteps.pdf) | SCA | - |
+| [Time-Domain Parallelization for Accelerating Cloth Simulation](http://cs.unc.edu/~liangjb/docs/SCA2018.pdf) | SCA | [Project](http://gamma.cs.unc.edu/TParallelCloth/) | 
+
 
 
 
@@ -63,6 +76,8 @@ Table of Contents
 | [An Implicit Frictional Contact Solver for Adaptive Cloth Simulation](https://www-users.cselabs.umn.edu/~lixx4611/files/clothNodalContactSolver.pdf) | SIGGRAPH |[Project](https://www-users.cselabs.umn.edu/~lixx4611/contact_friction.html) / [Code](https://github.com/lijieumn/argus-distribution) |
 | [I-Cloth: Incremental Collision Handling for GPU-Based Interactive Cloth Simulation](https://min-tang.github.io/home/ICloth/files/icloth.pdf) | SIGGRAPH-Asia | [Project](https://min-tang.github.io/home/ICloth/) | 
 | [Interactive Design of Periodic Yarn-Level Cloth Patterns](https://graphics.stanford.edu/projects/yarnsim/assets/interactive_design_of_periodic_yarn_level_cloth_patterns.pdf) | SIGGRAPH-Asia | [Project](https://graphics.stanford.edu/projects/yarnsim/) | 
+| [Modeling and Data-Driven Parameter Estimation for Woven Fabrics](https://media.disneyanimation.com/uploads/production/publication_asset/155/asset/paper.pdf) | SCA | [Project](https://disneyanimation.com/publications/modeling-and-data-driven-parameter-estimation-for-woven-fabrics/) | 
+| [Inequality cloth](https://dl.acm.org/doi/pdf/10.1145/3099564.3099568) | SCA | - | 
 
 
 ## 2017
@@ -76,4 +91,6 @@ Table of Contents
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
 | [A Chebyshev Semi-Iterative Approach for Accelerating Projective and Position-Based Dynamics](https://wanghmin.github.io/Wang-2015-ACS/Wang-2015-ACS.pdf) | SIGGRAPH-Asia | [Code](https://wanghmin.github.io/Wang-2015-ACS/Chebyshev_sim.zip) |
 | [Smoothed aggregation multigrid for cloth simulation](https://dl.acm.org/doi/10.1145/2816795.2818081) | SIGGRAPH-Asia | - |
+| [Real-time dynamic wrinkling of coarse animated cloth](https://dl.acm.org/doi/pdf/10.1145/2786784.2786789) | SCA | - | 
+| [Efficient Simulation of Knitted Cloth Using Persistent Contacts](http://www.gmrv.es/Publications/2015/CLO15/CirioSCA2015.pdf) | SCA | [Project](http://www.gmrv.es/Publications/2015/CLO15/) | 
 
