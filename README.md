@@ -29,6 +29,7 @@ Table of Contents
 | [PERGAMO: Personalized 3D Garments from Monocular Video](http://mslab.es/projects/PERGAMO/contents/casado-sca2022.pdf) | SCA | [Project](http://mslab.es/projects/PERGAMO/) / [Code](https://github.com/AndresCasado/pergamo) |
 | [Capturing and Animation of Body and Clothing from Monocular Video](https://arxiv.org/pdf/2210.01868v1.pdf) | - | [Code](https://github.com/YadiraF/SCARF)
 | [SNUG: Self-Supervised Neural Dynamic Garments](http://mslab.es/projects/SNUG/contents/santesteban_CVPR2022.pdf) | CVPR | [Project](http://mslab.es/projects/SNUG/) / [Code](https://github.com/isantesteban/snug) |
+| [Fine-grained Differentiable Physics: A Yarn-level Model for Fabrics](https://arxiv.org/pdf/2202.00504.pdf) | ICLR | - |
 
 ## 2021
 | Paper | Publisher | Project/Code |
