@@ -8,6 +8,7 @@ Table of Contents
 
   * [Research Papers](#Research-Papers)
   * [Books](#Books)
+  * [Resources](#Resources)
 
 # Research-Papers
 ## 2022
@@ -95,13 +96,13 @@ Table of Contents
 | [Efficient Simulation of Knitted Cloth Using Persistent Contacts](http://www.gmrv.es/Publications/2015/CLO15/CirioSCA2015.pdf) | SCA | [Project](http://www.gmrv.es/Publications/2015/CLO15/) |
 
 # Books
-    - [Cloth Simulation for Computer Graphics](https://www.amazon.com/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
-    - [Mathematical Basics of Motion and Deformation in Computer Graphics, Second Edition](https://link.springer.com/book/10.1007/978-3-031-02592-1)
-    - [Game Physics](https://www.amazon.in/Game-Physics-David-H-Eberly/dp/0123749034)
-    - [Computer Animation](https://www.elsevier.com/books/computer-animation/parent/978-0-12-532000-9)
-    - [Modelling and Simulating Bodies and Garments](https://link.springer.com/book/10.1007/978-1-84996-263-6)
-    -
-# Other-Resources
-    - [Physics Based Animation](https://github.com/dilevin/CSC417-physics-based-animation)
-    - [Ten Minutes Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
-    - [Physics Based Animation](https://www.cse.iitd.ac.in/~narain/courses/col865/i1819/)
+- [Cloth Simulation for Computer Graphics](https://www.amazon.com/Cloth-Simulation-Computer-Graphics-Stuyck/dp/1681734117/)
+- [Mathematical Basics of Motion and Deformation in Computer Graphics, Second Edition](https://link.springer.com/book/10.1007/978-3-031-02592-1)
+- [Game Physics](https://www.amazon.in/Game-Physics-David-H-Eberly/dp/0123749034)
+- [Computer Animation](https://www.elsevier.com/books/computer-animation/parent/978-0-12-532000-9)
+- [Modelling and Simulating Bodies and Garments](https://link.springer.com/book/10.1007/978-1-84996-263-6)
+
+# Resources
+- [Physics Based Animation](https://github.com/dilevin/CSC417-physics-based-animation)
+- [Ten Minutes Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
+- [Physics Based Animation](https://www.cse.iitd.ac.in/~narain/courses/col865/i1819/)
