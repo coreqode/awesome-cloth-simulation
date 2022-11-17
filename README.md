@@ -1,4 +1,4 @@
-# Aweseome-Cloth-Simulation
+# awesome-cloth-simulation
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of cloth simulation resources. Feel free to contribute :)
