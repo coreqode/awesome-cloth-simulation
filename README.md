@@ -11,9 +11,18 @@ Table of Contents
   * [Resources](#Resources)
 
 # Research-Papers
+## 2023
+| Paper | Publisher | Project/Code |
+| :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
+| [PAC-NeRF: Physics Augmented Conitnuum Neural Radiance Fields For Geometry-Agnostic System Identification](https://openreview.net/forum?id=tVkrbkz42vc) | ICLR | [Code](https://github.com/xuan-li/PAC-NeRF) |
+| [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/research/neural-physics-subspaces/) | SIGGRAPH | [Code]() |
+| [Multi Layer Thick Shells](https://drive.google.com/file/d/17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS/view) | SIGGRAPH | [Code]() |
+| [How Will It Drape Like? Capturing Fabric Mechanics from Depth Images](https://carlosrodriguezpardo.es/projects/MechFromDepth/) | Eurographics | [Code]() |
 ## 2022
 | Paper | Publisher | Project/Code |
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
+
+| [Designing Personalized Garments with Body Movement](https://igl.ethz.ch/projects/dynamic-garments/) | CGF | [Code](https://github.com/katjawolff/custom_fit_garments) |
 | [Learning-Based Bending Stiffness Parameter Estimation by a Drape Tester](https://wanghmin.github.io/Feng-2022-LBB/Feng-2022-LBB.pdf) | SIGGRAPH-Asia | [Code](https://github.com/DrapeTester/ClothDrapeTester) |
 | Neural Cloth Simulation | SIGGRAPH-Asia | - |
 | Progressive Simulation for Cloth Quasistatics | SIGGRAPH-Asia | [Project](https://eriszhang.github.io)
