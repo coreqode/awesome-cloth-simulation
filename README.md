@@ -21,8 +21,7 @@ Table of Contents
 ## 2022
 | Paper | Publisher | Project/Code |
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
-
-| [Designing Personalized Garments with Body Movement](https://igl.ethz.ch/projects/dynamic-garments/) | CGF | [Code](https://github.com/katjawolff/custom_fit_garments) |
+| [Designing Personalized Garments with Body Movement](https://igl.ethz.ch/projects/dynamic-garments/) | CGF | [Code]() |
 | [Learning-Based Bending Stiffness Parameter Estimation by a Drape Tester](https://wanghmin.github.io/Feng-2022-LBB/Feng-2022-LBB.pdf) | SIGGRAPH-Asia | [Code](https://github.com/DrapeTester/ClothDrapeTester) |
 | Neural Cloth Simulation | SIGGRAPH-Asia | - |
 | Progressive Simulation for Cloth Quasistatics | SIGGRAPH-Asia | [Project](https://eriszhang.github.io)
