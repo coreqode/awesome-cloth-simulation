@@ -18,13 +18,15 @@ Table of Contents
 | [Data-Free Learning of Reduced-Order Kinematics](https://nmwsharp.com/research/neural-physics-subspaces/) | SIGGRAPH | - |
 | [Multi Layer Thick Shells](https://drive.google.com/file/d/17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS/view) | SIGGRAPH | - |
 | [How Will It Drape Like? Capturing Fabric Mechanics from Depth Images](https://carlosrodriguezpardo.es/projects/MechFromDepth/) | Eurographics | - |
+| [DrapeNet: Garment Generation and Self-Supervised Draping](https://arxiv.org/pdf/2211.11277.pdf) | CVPR | [Project](https://liren2515.github.io/page/drapenet/drapenet.html) |
+| [HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics](https://dolorousrtur.github.io/hood/) | CVPR | [Project](https://dolorousrtur.github.io/hood/) |
 ## 2022
 | Paper | Publisher | Project/Code |
 | :----------------------------------------------------------: | :--------------: | :-----------------------------------------------------: |
-| [Designing Personalized Garments with Body Movement](https://igl.ethz.ch/projects/dynamic-garments/) | CGF | [Code]() |
+| [Designing Personalized Garments with Body Movement](https://igl.ethz.ch/projects/dynamic-garments/) | CGF | - |
 | [Learning-Based Bending Stiffness Parameter Estimation by a Drape Tester](https://wanghmin.github.io/Feng-2022-LBB/Feng-2022-LBB.pdf) | SIGGRAPH-Asia | [Code](https://github.com/DrapeTester/ClothDrapeTester) |
-| Neural Cloth Simulation | SIGGRAPH-Asia | - |
-| Progressive Simulation for Cloth Quasistatics | SIGGRAPH-Asia | [Project](https://eriszhang.github.io)
+| [Neural Cloth Simulation](https://hbertiche.github.io/NeuralClothSim/) | SIGGRAPH-Asia | [Code](https://github.com/hbertiche/NeuralClothSim) |
+| [Progressive Simulation for Cloth Quasistatics](https://pcs-sim.github.io/) | SIGGRAPH-Asia | -  
 | [Motion Guided Deep Dynamic 3D Garments](https://arxiv.org/pdf/2209.11449.pdf) | SIGGRAPH-Asia | [Project](https://geometry.cs.ucl.ac.uk/projects/2022/MotionDeepGarment/) / [Code](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment) |
 | [Dressing Avatars: Deep Photorealistic Appearance for Physically Simulated Clothing](https://arxiv.org/pdf/2206.15470.pdf) | SIGGRAPH-Asia | -  |
 | [DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact](https://people.csail.mit.edu/liyifei/uploads/diffcloth-highres-tog.pdf) | SIGGRAPH | [Project](https://people.csail.mit.edu/liyifei/publication/diffcloth/) / [Code](https://github.com/omegaiota/DiffCloth) |
